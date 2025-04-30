@@ -1,0 +1,1 @@
+web: streamlit run manual_input_battery_app.py
