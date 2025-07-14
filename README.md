@@ -6,11 +6,11 @@ A complete data science project focused on understanding, visualizing, and predi
 
 ##  Project Highlights
 
-*  **Machine Learning Models** for battery life prediction
-*  **Visualization of charge/discharge cycles** (voltage, current, temperature)
-*  **Histograms, scatter plots, heatmaps** for performance interpretation
-*  **Data cleaning and feature engineering** for model readiness
-*  Based on **NASA's battery degradation dataset**
+* **Machine Learning Models** for battery life prediction
+* **Visualization of charge/discharge cycles** (voltage, current, temperature)
+* **Histograms, scatter plots, heatmaps** for performance interpretation
+* **Data cleaning and feature engineering** for model readiness
+* Based on **NASA's battery degradation dataset**
 
 ---
 
@@ -90,4 +90,13 @@ See [`LICENSE`](LICENSE) for full terms.
 
 ##  Authors
 
-* **Rohit Raj Uppala** – Data Scientist | [LinkedIn](Great! Since this research is not under publication and **you’re open to making it open-source**, here is a polished and **GitHub-friendly `README.md`** tailored for public sharing of your **Battery Life Prediction & Monitoring** project:
+* **Rohit Raj Uppala** – Data Scientist
+  🔗 [LinkedIn](https://www.linkedin.com/in/uppala-rohit-raj-68ba7b217/)
+
+##  Contributions
+
+Feel free to fork, contribute, or open issues. We welcome:
+
+* Visualization improvements
+* Additional battery datasets
+* Model performance enhancement
