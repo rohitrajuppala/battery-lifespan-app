@@ -93,7 +93,7 @@ See [`LICENSE`](LICENSE) for full terms.
 
 ##  Authors
 
-* **Rohit Raj Uppala** – Data Scientist | [LinkedIn](https://www.linkedin.com/in/ambca-m-638k74329)
+* **Rohit Raj Uppala** – Data Scientist | [LinkedIn]([https://www.linkedin.com/in/ambca-m-638k74329](https://www.linkedin.com/in/uppala-rohit-raj-68ba7b217/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BWbJ41%2FCbTumN5WOMVWaYqA%3D%3D))
 ---
 
 ## 🙌 Contributions
